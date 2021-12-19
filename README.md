@@ -8,4 +8,4 @@ templates and static : contain HTML/CSS code to render the GUI of the web applic
 requirement.txt : contains all dependancies and required libraries.
 models : contains all trained models.
 link to the application:
-https://app-airlines-deployment.herokuapp.com/predict
+https://app-airlines-deployment.herokuapp.com
